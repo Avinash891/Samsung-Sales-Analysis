@@ -53,8 +53,8 @@ An interactive Power BI dashboard analyzing 15,500+ sales transactions across 4 
 ##  Dashboard Preview
 
 
+<img width="789" height="515" alt="Screenshot 2026-05-05 122423" src="https://github.com/user-attachments/assets/892cb370-e1fd-4dd8-b959-76f51a8b689f" />
 
-<img width="1920" height="1080" alt="Screenshot 2026-05-01 183558" src="https://github.com/user-attachments/assets/98ba27a5-654a-4de9-9233-11d33b83a487" />
 
 
 ##  Business Impact
